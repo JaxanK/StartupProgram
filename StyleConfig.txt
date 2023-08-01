@@ -1,0 +1,3 @@
+ButtonBackgroundColor=Black
+ButtonTextColor=Red
+LabelTextColor=Red
