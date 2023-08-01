@@ -21,9 +21,10 @@ Very standard...
 
 # Configure the Project
 Once the project is built and working, you can replace/overwrite the following resources files to achieve a different splash screen and style.
-  .PNG pictures - Delete and replace with more .PNG files. If you select one file, that will be the only file that is used as a splash screen, two or more files and a random file from the collection will be selected each time the launching program is run
+
+  PNG pictures - Delete and replace with more PNG files. If you select one file, that will be the only file that is used as a splash screen, two or more files and a random file from the collection will be selected each time the launching program is run
   
-  StyleConfig.txt file - currently only a couple options to configure the text color of the dots and the style of the cancel button
+  StyleConfig.txt file - currently only a couple options to configure the text color of the dots and the style of the cancel button. See the included file for the syntax and available options
   
   bat file - Only a single bat file should be provided in the build directory. Regardless of the filename, the program will look for a bat file in the directory and run it.
 
